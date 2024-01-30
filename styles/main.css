@@ -1,0 +1,27 @@
+html {
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    background-color: white;
+    border: 10px solid beige; 
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+header, main, footer {
+    text-align: center;
+}
+
+h2 {
+    font-size: 250%;
+}
+
+.img-welcome {
+    max-width: 450px;
+    height: auto; 
+    margin-top: 20px;
+}
+
+    
